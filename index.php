@@ -39,14 +39,14 @@
 
     <!-- Header -->
     <header class="masthead">
-      <div class="container">
-        <img class="img-fluid" src="img/profile.png" alt="">
-        <div class="intro-text">
-          <span class="name">Aubrey Cook</span>
-          <hr class="star-light">
-          <span class="skills">Web Developer</span>
+        <div class="container"> 
+            <img class="img-fluid" src="img/profile.png" alt="">
+            <div class="intro-text">
+                <span class="name">Aubrey Cook</span>
+                <hr class="star-light"> 
+                <span class="skills">Web Developer</span> 
+            </div>
         </div>
-      </div>
     </header>
 
     <!-- Portfolio Grid Section -->
@@ -171,45 +171,30 @@
       <div class="footer-above">
         <div class="container">
           <div class="row">
-            <div class="footer-col col-md-4">
-              <h3>Location</h3>
-              <p>3481 Melrose Place
-                <br>Beverly Hills, CA 90210</p>
-            </div>
-            <div class="footer-col col-md-4">
+            <div class="footer-col col-md-12">
               <h3>Around the Web</h3>
               <ul class="list-inline">
                 <li class="list-inline-item">
-                  <a class="btn-social btn-outline" href="#">
+                  <a class="btn-social btn-outline" href="https://github.com/aubreyjcook">
+                    <i class="fa fa-fw fa-github"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a class="btn-social btn-outline" href="https://www.facebook.com/aubrey.cook.507">
                     <i class="fa fa-fw fa-facebook"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a class="btn-social btn-outline" href="#">
-                    <i class="fa fa-fw fa-google-plus"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a class="btn-social btn-outline" href="#">
+                  <a class="btn-social btn-outline" href="https://twitter.com/aubreyjcook">
                     <i class="fa fa-fw fa-twitter"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a class="btn-social btn-outline" href="#">
+                  <a class="btn-social btn-outline" href="https://www.linkedin.com/in/aubrey-cook-9b6922152/">
                     <i class="fa fa-fw fa-linkedin"></i>
                   </a>
                 </li>
-                <li class="list-inline-item">
-                  <a class="btn-social btn-outline" href="#">
-                    <i class="fa fa-fw fa-dribbble"></i>
-                  </a>
-                </li>
               </ul>
-            </div>
-            <div class="footer-col col-md-4">
-              <h3>About Freelancer</h3>
-              <p>Freelance is a free to use, open source Bootstrap theme created by
-                <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
             </div>
           </div>
         </div>
@@ -218,7 +203,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-12">
-              Copyright &copy; Your Website 2017
+              Copyright &copy; Aubrey J Cook 2017
             </div>
           </div>
         </div>
