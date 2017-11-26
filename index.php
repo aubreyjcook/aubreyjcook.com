@@ -172,6 +172,7 @@
         <div class="container">
           <div class="row">
             <div class="footer-col col-md-12">
+                <h5>Computers are like old testament gods, lots of rules and no mercy.</h5>
               <h3>Around the Web</h3>
               <ul class="list-inline">
                 <li class="list-inline-item">
