@@ -33,6 +33,11 @@
               <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
           </ul>
+            <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="resume.php">Resume</a>
+            </li>
+          </ul>
         </div>
       </div>
     </nav>
@@ -172,8 +177,7 @@
         <div class="container">
           <div class="row">
             <div class="footer-col col-md-12">
-                <h5>Computers are like old testament gods, lots of rules and no mercy.</h5>
-              <h3>Around the Web</h3>
+            <h5>Computers are like old testament gods, lots of rules and no mercy.</h5>
               <ul class="list-inline">
                 <li class="list-inline-item">
                   <a class="btn-social btn-outline" href="https://github.com/aubreyjcook">
