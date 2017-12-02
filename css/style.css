@@ -27,6 +27,12 @@ section.success {
     background-color: black;
 }
 
+.portfolio-link {
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+}
+
 .btn-success {
     color: black;
     border-color: midnightblue;
