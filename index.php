@@ -30,7 +30,7 @@
     </nav>
     <!-- Header -->
     <header class="masthead">
-        <div class="container"> <img class="img-fluid" src="img/profile.png" alt="">
+        <div class="container">
             <div class="intro-text"> <span class="name">Aubrey Cook</span>
                 <hr class="star-light"> <span class="skills">Web Developer</span> </div>
         </div>
@@ -45,8 +45,9 @@
                     <a class="portfolio-link" href="#portfolioModal1" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/cabin.png" alt=""> </a>
+                        </div> <img class="img-fluid" src="img/portfolio/portfolioThumb01.jpg" alt=""> </a>
                 </div>
+                <!--
                 <div class="col-sm-4 portfolio-item">
                     <a class="portfolio-link" href="#portfolioModal2" data-toggle="modal">
                         <div class="caption">
@@ -77,13 +78,10 @@
                             <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
                         </div> <img class="img-fluid" src="img/portfolio/submarine.png" alt=""> </a>
                 </div>
-            </div>
+            --></div>
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
-                    <a class="btn btn-lg btn-outline" href="https://github.com/aubreyjcook"> 
-                        <i class="fa fa-fw fa-github"></i>
-                        Review My Github Projects
-                    </a>
+                    <a class="btn btn-lg btn-outline" href="https://github.com/aubreyjcook"> <i class="fa fa-fw fa-github"></i> Review My Github Projects </a>
                 </div>
             </div>
         </div>
@@ -205,17 +203,14 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2>Personal Website</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/cabin.png" alt="">
+                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb01.jpg" alt="">
                                 <p>My personal website located at <a href="aubreyjcook.com">aubreyjcook.com</a></p>
                                 <ul class="list-inline item-details">
-                                    <li>Client: <strong>
-                        <a href="http://startbootstrap.com">Start Bootstrap</a>
-                      </strong> </li>
-                                    <li>Date: <strong>
-                        <a href="http://startbootstrap.com">April 2014</a>
+                                    
+                                    <li>Date: <strong>2017
                       </strong> </li>
                                     <li>Service: <strong>
-                        <a href="http://startbootstrap.com">Web Development</a>
+                        Web Development
                       </strong> </li>
                                 </ul>
                                 <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
