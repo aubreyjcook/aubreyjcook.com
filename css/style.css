@@ -1,4 +1,4 @@
-/*freelancer.css style modifications*/
+/*default style modifications*/
 
 header.masthead {
     background: black;
@@ -25,6 +25,10 @@ hr.star-primary:after {
 section.success {
     color: white;
     background-color: black;
+}
+
+.bg-primary {
+    background-color: black !important;
 }
 
 .portfolio-link {

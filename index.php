@@ -3,12 +3,8 @@
 
 <head>
     <?php include 'php/htmlHead.php';?>
-        <?php include 'php/htmlHeadCSS.php';?>
-            <!-- Page Specific CSS file links
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-            <?php include 'php/htmlHeadJS.php';?>
-                <!-- Page Specific Javascript file links
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <?php include 'php/htmlHeadCSS.php';?>
+    <?php include 'php/htmlHeadJS.php';?>
 </head>
 
 <body id="page-top">
