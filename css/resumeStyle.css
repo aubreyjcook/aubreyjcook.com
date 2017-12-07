@@ -1,0 +1,28 @@
+body {
+    color: white;
+    background-color: darkslategray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: lightskyblue;
+}
+
+a {
+    color: silver;
+}
+
+.bg-primary {
+    background-color: black !important;
+}
+
+.text-primary {
+    color: silver !important;
+}
+
+.list-social-icons a {
+    color: skyblue;
+}
+
+.fa-inverse {
+    color: black;
+}
