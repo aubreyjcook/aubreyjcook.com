@@ -3,8 +3,8 @@
 
 <head>
     <?php include 'php/htmlHead.php';?>
-    <?php include 'php/htmlHeadCSS.php';?>
-    <?php include 'php/htmlHeadJS.php';?>
+    <?php include 'php/headCSS.php';?>
+    <?php include 'php/headJS.php';?>
 </head>
 
 <body id="page-top">
@@ -160,13 +160,8 @@
             </div>
         </section>
     </div>
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <!-- Plugin JavaScript -->
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-    <!-- Custom scripts for this template -->
-    <script src="js/resume.min.js"></script>
+    <?php include 'php/footerJS.php';?>
+    
 </body>
 
 </html>

@@ -3,8 +3,8 @@
 
 <head>
     <?php include 'php/htmlHead.php';?>
-    <?php include 'php/htmlHeadCSS.php';?>
-    <?php include 'php/htmlHeadJS.php';?>
+    <?php include 'php/headCSS.php';?>
+    <?php include 'php/headJS.php';?>
 </head>
 
 <body id="page-top">
@@ -404,6 +404,7 @@
             </div>
         </div>
     </div>
+<?php include 'php/footerJS.php';?>
 </body>
 
 </html>
