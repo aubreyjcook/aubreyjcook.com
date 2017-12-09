@@ -6,9 +6,7 @@
 <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
 <!-- conditional page specific CSS files are loaded with this statement -->
 <?php if ($current_page == "index.php") {
     echo '<link href="css/freelancer.min.css" rel="stylesheet">';
@@ -22,4 +20,5 @@
     echo '<link href="css/resumeStyle.css" rel="stylesheet">';
 }
 ?>
-    <link href="css/style.css" rel="stylesheet">
+<!-- My CSS -->
+<link href="css/style.css" rel="stylesheet">
