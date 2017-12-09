@@ -9,10 +9,15 @@
 
 <body id="page-top">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top"> <span class="d-block d-lg-none">Start Bootstrap</span> <span class="d-none d-lg-block">
-          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.png" alt="">
-        </span> </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top"> 
+            <span class="d-block d-lg-none">Start Bootstrap</span> 
+            <span class="d-none d-lg-block">
+                <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.png" alt="">
+            </span> 
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> 
+            <span class="navbar-toggler-icon"></span> 
+        </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="index.php">Home</a> </li>
@@ -28,34 +33,42 @@
         <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
             <div class="my-auto">
                 <h1 class="mb-0">Aubrey
-            <span class="text-primary">Cook</span>
-          </h1>
+                    <span class="text-primary">Cook</span>
+                </h1>
                 <div class="subheading mb-5">(815) 321-9257 · <a href="mailto:email@aubreyjcook.com">email@aubreyjcook.com</a> </div>
                 <p class="mb-5">Aubrey Cook is a free-lance Web Developer, specializing in front-end development.</p>
                 <ul class="list-inline list-social-icons mb-0">
                     <li class="list-inline-item">
-                        <a href="#"> <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span> </a>
+                        <a href="https://github.com/aubreyjcook">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="#"> <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                </span> </a>
+                        <a href="https://www.facebook.com/aubrey.cook.507"> 
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span> 
+                        </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="#"> <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                </span> </a>
+                        <a href="https://twitter.com/aubreyjcook"> 
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span> 
+                        </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="#"> <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                </span> </a>
+                        <a href="https://www.linkedin.com/in/aubrey-cook-9b6922152/">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span> 
+                        </a>
                     </li>
                 </ul>
             </div>
@@ -67,7 +80,11 @@
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Free-lance Web Developer</h3>
                         <div class="subheading mb-3">Self-Employment</div>
-                        <p>Worked on contract with clients to deliver web sites that meet the needs of their customers, utilizing web-based programming languages and libraries to build user interfaces and user experiences that fits the particular needs of the site and customer base</p>
+                        <ul>
+                            <li>Built websites according to contractual stipulations.</li>
+                            <li>Utilized web-based programming languages and libraries.</li>
+                            <li>Developed user interfaces and user experiences based on the needs of the website customers.</li>
+                        </ul>
                     </div>
                     <div class="resume-date text-md-right"> <span class="text-primary">July 2017 - Present</span> </div>
                 </div>
@@ -113,7 +130,7 @@
                         <div class="subheading mb-3">Associate's of General Education</div>
                         <p>GPA: 3.2</p>
                     </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">December 2016</span> </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">October 2013 - December 2016</span> </div>
                 </div>
             </div>
         </section>
@@ -143,7 +160,6 @@
                     <li> <i class="fa-li fa fa-check"></i> Apply a combination of programming languages to create web-based applications.</li>
                     <li> <i class="fa-li fa fa-check"></i> Discuss the goals and purpose of your website, to understand the specific nature of the services you intend to offer. </li>
                     <li> <i class="fa-li fa fa-check"></i> Work within the guidelines that you feel will make your website work best for your customers. </li>
-                    <li> <i class="fa-li fa fa-check"></i> Explore and demonstrate the options available to meet the specific needs of your website.</li>
                     <li> <i class="fa-li fa fa-check"></i> Make basic updates to your existing website, correcting minor errors left behind by previous developers.</li>
                     <li> <i class="fa-li fa fa-check"></i> Provide you with the resources to best manage your website on your own. </li>
                     <li> <i class="fa-li fa fa-check"></i> Collaborate with other developers on your project to effectively deliver on your project.</li>
@@ -160,8 +176,7 @@
             </div>
         </section>
     </div>
-    <?php include 'php/footerJS.php';?>
-    
+<?php include 'php/footerJS.php';?> 
 </body>
 
 </html>
