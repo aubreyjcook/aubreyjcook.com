@@ -29,9 +29,11 @@
                     <li class="nav-item"> 
                         <a class="nav-link js-scroll-trigger" href="resume.php">Resume</a>
                     </li>
+                    <!--
                     <li class="nav-item"> 
                         <a class="nav-link js-scroll-trigger" href="photography.php">Photography</a>
                     </li>
+                    -->
                 </ul>
             </div>
         </div>
@@ -196,7 +198,7 @@
         <div class="footer-below">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-12"> Copyright &copy; Aubrey J Cook 2017 </div>
+                    <div class="col-lg-12" id="date"></div>
                 </div>
             </div>
         </div>
@@ -237,6 +239,7 @@
             </div>
         </div>
     </div>
+    <!--
     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -407,6 +410,7 @@
             </div>
         </div>
     </div>
+-->
 <?php include 'php/footerJS.php';?>
 </body>
 
