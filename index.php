@@ -24,6 +24,9 @@
                     <li class="nav-item"> 
                         <a class="nav-link js-scroll-trigger" href="#contact">Contact</a> 
                     </li>
+                    <li class="nav-item"> 
+                        <a class="nav-link js-scroll-trigger" href="#services">Services</a> 
+                    </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item"> 
@@ -166,6 +169,20 @@
                             <button type="submit" class="btn btn-success btn-lg" id="sendMessageButton">Send</button>
                         </div>
                     </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Services -->
+    <section id="services">
+        <div class="container">
+            <h2 class="text-center">Request Services</h2>
+            <hr class="star-light">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
+                    <div class="col-lg-8 mx-auto text-center">
+                        <a href="https://form.jotform.com/73454085084156" class="btn btn-lg btn-outline"> <i class="fa fa-link"></i> Start Design Questionnaire Form </a>
+                    </div>
                 </div>
             </div>
         </div>
