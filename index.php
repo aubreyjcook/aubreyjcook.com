@@ -32,6 +32,9 @@
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="resume.php">Resume</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="/blog">Blog</a>
+                    </li>
                     <!--
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="photography.php">Photography</a>
