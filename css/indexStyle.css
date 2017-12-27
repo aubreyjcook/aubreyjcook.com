@@ -43,7 +43,12 @@ section.success {
     color: lightgoldenrodyellow;
     border-color: darkred;
     background-color: darkcyan;
-        
+
+}
+
+.modal-content {
+  color: white;
+  background-color: black;
 }
 
 #portfolio {
