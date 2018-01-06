@@ -25,7 +25,6 @@
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#experience">Experience</a> </li>
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#education">Education</a> </li>
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#skills">Skills</a> </li>
-                <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#interests">Interests</a> </li>
             </ul>
         </div>
     </nav>
@@ -166,13 +165,6 @@
                     <li> <i class="fa-li fa fa-check"></i> Simplify and accurately describe the development process so that you understand the results I am delivering.</li>
                     <li> <i class="fa-li fa fa-check"></i> Generate content needed for your site within the purvey of my specialities.</li>
                 </ul>
-            </div>
-        </section>
-        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
-            <div class="my-auto">
-                <h2 class="mb-5">Interests</h2>
-                <p></p>
-                <p class="mb-0"></p>
             </div>
         </section>
     </div>
