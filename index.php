@@ -183,9 +183,38 @@
             <h2 class="text-center">Request Services</h2>
             <hr class="star-light">
             <div class="row">
-                <div class="col-lg-8 mx-auto">
+                <div class="col-lg-4 ml-auto text-center">
+                    <h3>Website Audits</h3>
+                    <p>A website audit is a thorough inspection of an existing website to discover any errors, outdated design elements, or potential areas of improvement. The deliverable for this format of service is a spreadsheet including a description of each individual issue to be solved.</p>
+                </div>
+                <div class="col-lg-4 ml-auto text-center">
+                    <h3>Website Designs</h3>
+                    <p>A website design is for a new site or website redesign. It includes an entire process of analysis, building wireframes, mockups, and finally a pixel-perfect representation of the site to be built.</p>
+                </div>
+                <div class="col-lg-4 ml-auto text-center">
+                    <h3>Website Development</h3>
+                    <p>Website development includes any work involved in actually coding a website, either from scratch or to update an existing website.</p>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-lg-4 ml-auto text-center">
+                    <h3>Wordpress Standard Theme Development</h3>
+                    <p>Development on a Wordpress site using a standard (free) theme available from the web.</p>
+                </div>
+                <div class="col-lg-4 ml-auto text-center">
+                    <h3>Wordpress Premium Theme Development</h3>
+                    <p>Development on a Wordpress site using a premium theme. You are required to purchase a liscense for a premium theme to be used on your site, which will be used to create a child-theme for further customization.</p>
+                </div>
+                <div class="col-lg-4 ml-auto text-center">
+                    <h3>Wordpress Custom Theme Development</h3>
+                    <p>Development of a Wordpress site using an entirely custom made theme from scratch.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 mx-auto">                    
                     <div class="col-lg-8 mx-auto text-center">
-                        <a href="https://form.jotform.com/73454085084156" class="btn btn-lg btn-outline"> <i class="fa fa-link"></i> Start Design Questionnaire Form </a>
+                        <a href="https://form.jotform.com/73454085084156" class="btn btn-lg btn-outline"> <i class="fa fa-link"></i> Start Client Questionnaire Form </a>
                     </div>
                 </div>
             </div>
