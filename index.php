@@ -278,13 +278,13 @@
                                 <p><a href="http://www.mmjconstruction.co.uk">MMJ Construction Website</a></p>
                                 <ul class="list-inline item-details">
                                     <li>Client: <strong>
-                        <p>MMJ Construction</p>
+                        MMJ Construction
                       </strong> </li>
                                     <li>Date: <strong>
-                        <p>August 2017</p>
+                        August 2017
                       </strong> </li>
                                     <li>Service: <strong>
-                        <p>Web Development</p>
+                        Web Development, Wordpress Development
                       </strong> </li>
                                 </ul>
                                 <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
