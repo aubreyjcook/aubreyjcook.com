@@ -18,6 +18,12 @@
     echo '<link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">';
     echo '<link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">';
     echo '<link href="css/resumeStyle.css" rel="stylesheet">';
+} else if ($current_page == "photography.php") {
+    echo '<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>';
 }
 ?>
 <!-- My CSS -->

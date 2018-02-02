@@ -5,5 +5,14 @@
 </script><script src="js/contact_me.js"></script>';
 } else if ($current_page == "resume.php") {
     echo '<script src="js/resume.min.js"></script>';
+} else if ($current_page == "photography.php") {
+    echo '<script src="assets/js/skel.min.js"></script>
+         <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+         <script src="assets/js/main.js"></script>
+         <script type="text/javascript">
+         $(\'.toggle\').click(function(){
+            $(\'.caption\').toggle();
+         })
+         </script>';
 }
 ?>

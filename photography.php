@@ -1,413 +1,355 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE HTML>
+<html>
 
 <head>
     <?php include 'php/htmlHead.php';?>
-    <?php include 'php/headCSS.php';?>
-    <?php include 'php/headJS.php';?>
+        <?php include 'php/headCSS.php';?>
+            <?php include 'php/headJS.php';?>
 </head>
 
-<body id="page-top">
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-        <div class="container"> 
-            <a class="navbar-brand js-scroll-trigger" href="#page-top">Aubrey Cook</a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> Menu <i class="fa fa-bars"></i> </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"> 
-                        <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
-                    </li>
-                    <li class="nav-item"> 
-                        <a class="nav-link js-scroll-trigger" href="#about">About</a>
-                    </li>
-                    <li class="nav-item"> 
-                        <a class="nav-link js-scroll-trigger" href="#contact">Contact</a> 
-                    </li>
-                </ul>
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item"> 
-                        <a class="nav-link js-scroll-trigger" href="resume.php">Resume</a>
-                    </li>
-                    <li class="nav-item"> 
-                        <a class="nav-link js-scroll-trigger" href="photography.php">Photography</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <!-- Header -->
-    <header class="masthead">
-        <div class="container">
-            <div class="intro-text"> 
-                <span class="name">Aubrey Cook</span>
-                <hr class="star-light"> 
-                <span class="skills">Web Developer</span>
-            </div>
-        </div>
-    </header>
-    <!-- Portfolio Grid Section -->
-    <section id="portfolio">
-        <div class="container">
-            <h2 class="text-center">Portfolio</h2>
-            <hr class="star-primary">
-            <div class="row">
-                <div class="col-sm-4 portfolio-item">
-                    <a class="portfolio-link" href="#portfolioModal1" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content"> 
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div> 
-                        <img class="img-fluid" src="img/portfolio/portfolioThumb01.jpg" alt=""> 
-                    </a>
-                </div>
-                <!--
-                <div class="col-sm-4 portfolio-item">
-                    <a class="portfolio-link" href="#portfolioModal2" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/cake.png" alt=""> </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a class="portfolio-link" href="#portfolioModal3" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/circus.png" alt=""> </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a class="portfolio-link" href="#portfolioModal4" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/game.png" alt=""> </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a class="portfolio-link" href="#portfolioModal5" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/safe.png" alt=""> </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a class="portfolio-link" href="#portfolioModal6" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/submarine.png" alt=""> </a>
-                </div>
+<body class="is-loading-0 is-loading-1 is-loading-2">
+    <div id="main">
+        <header id="header">
+            <h1 class="text-center">Photography</h1>
+            <p class="text-center">Photographs by <a href="index.php">Aubrey J Cook</a></p>
+            <ul class="icons text-center">
+                <li><a href="https://github.com/aubreyjcook" class="icon fa-github"><span class="label">Github</span></a></li>
+                <li><a href="https://www.facebook.com/aubrey.cook.507" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                <li><a href="https://twitter.com/aubreyjcook" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="https://www.linkedin.com/in/aubrey-cook-9b6922152/" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
+            </ul>
+        </header>
+        <section id="thumbnails">
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/01.jpg" data-position="left center"><img src="img/photogallery/thumbs/01.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/02.jpg"><img src="img/photogallery/thumbs/02.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/03.jpg" data-position="top center"><img src="img/photogallery/thumbs/03.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/04.jpg"><img src="img/photogallery/thumbs/04.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/05.jpg" data-position="top center"><img src="img/photogallery/thumbs/05.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/06.jpg"><img src="img/photogallery/thumbs/06.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/07.jpg"><img src="img/photogallery/thumbs/07.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/08.jpg"><img src="img/photogallery/thumbs/08.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/09.jpg"><img src="img/photogallery/thumbs/09.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/10.jpg"><img src="img/photogallery/thumbs/10.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/04.jpg"><img src="img/photogallery/thumbs/04.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/12.jpg"><img src="img/photogallery/thumbs/12.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/13.jpg" data-position="left center"><img src="img/photogallery/thumbs/13.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/14.jpg"><img src="img/photogallery/thumbs/14.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/15.jpg" data-position="top center"><img src="img/photogallery/thumbs/15.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/16.jpg"><img src="img/photogallery/thumbs/16.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/17.jpg" data-position="top center"><img src="img/photogallery/thumbs/17.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/18.jpg"><img src="img/photogallery/thumbs/18.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/19.jpg"><img src="img/photogallery/thumbs/19.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/20.jpg"><img src="img/photogallery/thumbs/20.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/21.jpg"><img src="img/photogallery/thumbs/21.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/22.jpg"><img src="img/photogallery/thumbs/22.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/23.jpg"><img src="img/photogallery/thumbs/23.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/24.jpg"><img src="img/photogallery/thumbs/24.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/25.jpg" data-position="left center"><img src="img/photogallery/thumbs/25.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/26.jpg"><img src="img/photogallery/thumbs/26.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/27.jpg" data-position="top center"><img src="img/photogallery/thumbs/27.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/28.jpg"><img src="img/photogallery/thumbs/28.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/29.jpg" data-position="top center"><img src="img/photogallery/thumbs/29.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/30.jpg"><img src="img/photogallery/thumbs/30.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/31.jpg"><img src="img/photogallery/thumbs/31.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/32.jpg"><img src="img/photogallery/thumbs/32.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/33.jpg"><img src="img/photogallery/thumbs/33.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/34.jpg"><img src="img/photogallery/thumbs/34.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/35.jpg"><img src="img/photogallery/thumbs/35.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/36.jpg"><img src="img/photogallery/thumbs/36.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/37.jpg" data-position="left center"><img src="img/photogallery/thumbs/37.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/38.jpg"><img src="img/photogallery/thumbs/38.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/39.jpg" data-position="top center"><img src="img/photogallery/thumbs/39.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/40.jpg"><img src="img/photogallery/thumbs/40.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/41.jpg" data-position="top center"><img src="img/photogallery/thumbs/41.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/42.jpg"><img src="img/photogallery/thumbs/42.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/43.jpg"><img src="img/photogallery/thumbs/43.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/44.jpg"><img src="img/photogallery/thumbs/44.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/45.jpg"><img src="img/photogallery/thumbs/45.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/46.jpg"><img src="img/photogallery/thumbs/46.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/47.jpg"><img src="img/photogallery/thumbs/47.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/48.jpg"><img src="img/photogallery/thumbs/48.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/49.jpg" data-position="left center"><img src="img/photogallery/thumbs/49.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/50.jpg"><img src="img/photogallery/thumbs/50.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/51.jpg" data-position="top center"><img src="img/photogallery/thumbs/51.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/52.jpg"><img src="img/photogallery/thumbs/52.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/53.jpg" data-position="top center"><img src="img/photogallery/thumbs/53.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/54.jpg"><img src="img/photogallery/thumbs/54.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/55.jpg"><img src="img/photogallery/thumbs/55.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/56.jpg"><img src="img/photogallery/thumbs/56.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/57.jpg"><img src="img/photogallery/thumbs/57.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/58.jpg"><img src="img/photogallery/thumbs/58.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/59.jpg"><img src="img/photogallery/thumbs/59.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/60.jpg"><img src="img/photogallery/thumbs/60.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/61.jpg"><img src="img/photogallery/thumbs/61.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/62.jpg"><img src="img/photogallery/thumbs/62.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <article>
+                <a class="thumbnail" href="img/photogallery/fulls/63.jpg"><img src="img/photogallery/thumbs/63.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+            </article>
+            <!--
+                <article>
+                <a class="thumbnail" href="img/photogallery/fulls/01.jpg" data-position="left center"><img src="img/photogallery/thumbs/01.jpg" alt="" /></a>
+                <h2></h2>
+                <p></p>
+                </article>
             -->
-        </div>
-            <div class="row">
-                <div class="col-lg-8 mx-auto text-center">
-                    <a class="btn btn-lg btn-outline" href="https://github.com/aubreyjcook"> <i class="fa fa-fw fa-github"></i> Review My Github Projects </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- About Section -->
-    <section class="success" id="about">
-        <div class="container">
-            <h2 class="text-center">About</h2>
-            <hr class="star-light">
-            <div class="row">
-                <div class="col-lg-4 ml-auto">
-                    <p>Aubrey Cook is a free-lance Web Developer, specializing in front-end development.</p>
-                </div>
-                <div class="col-lg-4 mr-auto">
-                    <p>Web development is a field within software development, often related with web design. Web Developers are responsible for writing computer code and applications to make websites functional.</p>
-                </div>
-                <div class="col-lg-8 mx-auto text-center">
-                    <a href="documents/acookResumeMinimal.docx" class="btn btn-lg btn-outline"> <i class="fa fa-download"></i> Download Resume </a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Contact Section -->
-    <section id="contact">
-        <div class="container">
-            <h2 class="text-center">Contact Me</h2>
-            <hr class="star-primary">
-            <div class="row">
-                <div class="col-lg-8 mx-auto">
-                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
-                    <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-                    <form name="sentMessage" id="contactForm" novalidate>
-                        <div class="control-group">
-                            <div class="form-group floating-label-form-group controls">
-                                <label>Name</label>
-                                <input class="form-control" id="name" type="text" placeholder="Name" required data-validation-required-message="Please enter your name.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="form-group floating-label-form-group controls">
-                                <label>Email Address</label>
-                                <input class="form-control" id="email" type="email" placeholder="Email Address" required data-validation-required-message="Please enter your email address.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="form-group floating-label-form-group controls">
-                                <label>Phone Number</label>
-                                <input class="form-control" id="phone" type="tel" placeholder="Phone Number" required data-validation-required-message="Please enter your phone number.">
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <div class="control-group">
-                            <div class="form-group floating-label-form-group controls">
-                                <label>Message</label>
-                                <textarea class="form-control" id="message" rows="5" placeholder="Message" required data-validation-required-message="Please enter a message."></textarea>
-                                <p class="help-block text-danger"></p>
-                            </div>
-                        </div>
-                        <br>
-                        <div id="success"></div>
-                        <div class="form-group">
-                            <button type="submit" class="btn btn-success btn-lg" id="sendMessageButton">Send</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Footer -->
-    <footer class="text-center">
-        <div class="footer-above">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-md-12">
-                        <h5>Computers are like old testament gods, lots of rules and no mercy.</h5>
-                        <ul class="list-inline">
-                            <li class="list-inline-item">
-                                <a class="btn-social btn-outline" href="https://github.com/aubreyjcook"> <i class="fa fa-fw fa-github"></i> </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a class="btn-social btn-outline" href="https://www.facebook.com/aubrey.cook.507"> <i class="fa fa-fw fa-facebook"></i> </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a class="btn-social btn-outline" href="https://twitter.com/aubreyjcook"> <i class="fa fa-fw fa-twitter"></i> </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a class="btn-social btn-outline" href="https://www.linkedin.com/in/aubrey-cook-9b6922152/"> <i class="fa fa-fw fa-linkedin"></i> </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-below">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12"> Copyright &copy; Aubrey J Cook 2017 </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top d-lg-none">
-        <a class="btn btn-primary js-scroll-trigger" href="#page-top"> <i class="fa fa-chevron-up"></i> </a>
+        </section>
+        <footer id="footer">
+            <ul class="copyright text-center">
+                <li>&copy; <a href="index.php">Aubrey J Cook</a></li>
+            </ul>
+        </footer>
     </div>
-    <!-- Portfolio Modals -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <h2>Personal Website</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb01.jpg" alt="">
-                                <p>My personal website located at <a href="aubreyjcook.com">aubreyjcook.com</a></p>
-                                <ul class="list-inline item-details">
-                                    
-                                    <li>Date: <strong>2017
-                      </strong> </li>
-                                    <li>Service: <strong>
-                        Web Development
-                      </strong> </li>
-                                </ul>
-                                <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <h2>Project Title</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/cake.png" alt="">
-                                <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                                <ul class="list-inline item-details">
-                                    <li>Client: <strong>
-                        <a href="http://startbootstrap.com">Start Bootstrap</a>
-                      </strong> </li>
-                                    <li>Date: <strong>
-                        <a href="http://startbootstrap.com">April 2014</a>
-                      </strong> </li>
-                                    <li>Service: <strong>
-                        <a href="http://startbootstrap.com">Web Development</a>
-                      </strong> </li>
-                                </ul>
-                                <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <h2>Project Title</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/circus.png" alt="">
-                                <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                                <ul class="list-inline item-details">
-                                    <li>Client: <strong>
-                        <a href="http://startbootstrap.com">Start Bootstrap</a>
-                      </strong> </li>
-                                    <li>Date: <strong>
-                        <a href="http://startbootstrap.com">April 2014</a>
-                      </strong> </li>
-                                    <li>Service: <strong>
-                        <a href="http://startbootstrap.com">Web Development</a>
-                      </strong> </li>
-                                </ul>
-                                <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <h2>Project Title</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/game.png" alt="">
-                                <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                                <ul class="list-inline item-details">
-                                    <li>Client: <strong>
-                        <a href="http://startbootstrap.com">Start Bootstrap</a>
-                      </strong> </li>
-                                    <li>Date: <strong>
-                        <a href="http://startbootstrap.com">April 2014</a>
-                      </strong> </li>
-                                    <li>Service: <strong>
-                        <a href="http://startbootstrap.com">Web Development</a>
-                      </strong> </li>
-                                </ul>
-                                <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <h2>Project Title</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/safe.png" alt="">
-                                <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                                <ul class="list-inline item-details">
-                                    <li>Client: <strong>
-                        <a href="http://startbootstrap.com">Start Bootstrap</a>
-                      </strong> </li>
-                                    <li>Date: <strong>
-                        <a href="http://startbootstrap.com">April 2014</a>
-                      </strong> </li>
-                                    <li>Service: <strong>
-                        <a href="http://startbootstrap.com">Web Development</a>
-                      </strong> </li>
-                                </ul>
-                                <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl"></div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 mx-auto">
-                            <div class="modal-body">
-                                <h2>Project Title</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/submarine.png" alt="">
-                                <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                                <ul class="list-inline item-details">
-                                    <li>Client: <strong>
-                        <a href="http://startbootstrap.com">Start Bootstrap</a>
-                      </strong> </li>
-                                    <li>Date: <strong>
-                        <a href="http://startbootstrap.com">April 2014</a>
-                      </strong> </li>
-                                    <li>Service: <strong>
-                        <a href="http://startbootstrap.com">Web Development</a>
-                      </strong> </li>
-                                </ul>
-                                <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-<?php include 'php/footerJS.php';?>
+    <?php include 'php/footerJS.php';?>
 </body>
 
 </html>
