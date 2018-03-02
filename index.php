@@ -270,7 +270,7 @@
                             <div class="modal-body">
                                 <h2>Personal Website</h2>
                                 <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb01.jpg" alt="">
-                                <p>My personal website located at <a href="aubreyjcook.com">aubreyjcook.com</a></p>
+                                <p>My personal website located at <a href="https://www.aubreyjcook.com">aubreyjcook.com</a></p>
                                 <ul class="list-inline item-details">
 
                                     <li>Date: <strong>2017
