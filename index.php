@@ -74,32 +74,30 @@
                             <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
                         </div> <img class="img-fluid" src="img/portfolio/portfolioThumb02.jpg" alt=""> </a>
                 </div>
-                <!--
                 <div class="col-sm-4 portfolio-item">
                     <a class="portfolio-link" href="#portfolioModal3" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/circus.png" alt=""> </a>
+                        </div> <img class="img-fluid" src="img/portfolio/portfolioThumb03.jpg" alt=""> </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
                     <a class="portfolio-link" href="#portfolioModal4" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/game.png" alt=""> </a>
+                        </div> <img class="img-fluid" src="img/portfolio/portfolioThumb04.jpg" alt=""> </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
                     <a class="portfolio-link" href="#portfolioModal5" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/safe.png" alt=""> </a>
+                        </div> <img class="img-fluid" src="img/portfolio/portfolioThumb05.jpg" alt=""> </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
                     <a class="portfolio-link" href="#portfolioModal6" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content"> <i class="fa fa-search-plus fa-3x"></i> </div>
-                        </div> <img class="img-fluid" src="img/portfolio/submarine.png" alt=""> </a>
+                        </div> <img class="img-fluid" src="img/portfolio/portfolioThumb06.jpg" alt=""> </a>
                 </div>
-            -->
         </div>
             <div class="row">
                 <div class="col-lg-8 mx-auto text-center">
@@ -336,7 +334,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2>Project Title</h2>
-                                <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/circus.png" alt="">
+                                <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb03.jpg" alt="">
                                 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                                 <ul class="list-inline item-details">
                                     <li>Client: <strong>
@@ -370,7 +368,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2>Project Title</h2>
-                                <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/game.png" alt="">
+                                <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb04.jpg" alt="">
                                 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                                 <ul class="list-inline item-details">
                                     <li>Client: <strong>
@@ -404,7 +402,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2>Project Title</h2>
-                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/safe.png" alt="">
+                                <hr class="star-primary"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb05.jpg" alt="">
                                 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                                 <ul class="list-inline item-details">
                                     <li>Client: <strong>
@@ -438,7 +436,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2>Project Title</h2>
-                                <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/submarine.png" alt="">
+                                <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb06.jpg" alt="">
                                 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                                 <ul class="list-inline item-details">
                                     <li>Client: <strong>
@@ -459,7 +457,7 @@
             </div>
         </div>
     </div>
--->
+    -->
 <?php include 'php/footerJS.php';?>
 </body>
 
