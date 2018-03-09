@@ -77,6 +77,18 @@
                 <h2 class="mb-5">Experience</h2>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
+                        <h3 class="mb-0">Maintenance and Custodial Volunteer</h3>
+                        <div class="subheading mb-3">Habitat For Humanity</div>
+                        <ul>
+                            <li>Coordinated with the head of Habitat For Humanity's local Restore chapter to help open a new store in Woodstock.</li>
+                            <li>Moved, sorted, and stocked donated products, appliances, and hardware throughout the store.</li>
+                            <li>Handled receiving, advertising signage, and visual organization of merchandise.</li>
+                        </ul>
+                    </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">January 2018 - Present</span> </div>
+                </div>
+                <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div class="resume-content mr-auto">
                         <h3 class="mb-0">Free-lance Web Developer</h3>
                         <div class="subheading mb-3">Self-Employment</div>
                         <ul>
@@ -89,7 +101,18 @@
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Student Lab Assistant</h3>
+                        <h3 class="mb-0">Administrative Data Auditor</h3>
+                        <div class="subheading mb-3">Stonemor Partners</div>
+                        <ul>
+                            <li>Searched, scanned, and cross-referenced documents, files, and contracts located in a historical cemetery’s department of records to verify the authenticity and accuracy of information.</li>
+                            <li>Added customer data to a spreadsheet as part of a database correction project. </li>
+                        </ul>
+                    </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">July 2017 - Present</span> </div>
+                </div>
+                <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div class="resume-content mr-auto">
+                        <h3 class="mb-0">Technical Support Assistant</h3>
                         <div class="subheading mb-3">Mchenry County College</div>
                         <ul>
                             <li>Ran help desk service and filled tech tickets for the college.</li>
@@ -138,16 +161,17 @@
                 <h2 class="mb-5">Certifications</h2>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
-                        <h3 class="mb-0">University of Illinois Springfield</h3>
-                        <div class="subheading mb-3">Bachelor of Computer Science</div>
+                        <h3 class="mb-0">Cambridge Certification Authority</h3>
+                        <div class="subheading mb-3">HTML Level 1 Certification</div>
+                        <p>This examination will test a basic knowledge of the structure of an HTML page, and the workings of essential elements such as header, paragraph and form tags.</p>
                     </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">January 2017 - Ongoing</span> </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">March 2018 - Ongoing</span> </div>
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row">
                     <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Mchenry County College</h3>
-                        <div class="subheading mb-3">Associate's of General Education</div>
-                        <p>GPA: 3.2</p>
+                        <h3 class="mb-0">Cambridge Certification Authority</h3>
+                        <div class="subheading mb-3">CSS Level 1 Certification</div>
+                        <p>This examination will test a basic knowledge of CSS, how to include it in web pages and fundamental CSS processes such as positioning and text formatting.</p>
                     </div>
                     <div class="resume-date text-md-right"> <span class="text-primary">October 2013 - December 2016</span> </div>
                 </div>
