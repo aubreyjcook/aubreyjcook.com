@@ -24,6 +24,7 @@
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#about">About</a> </li>
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#experience">Experience</a> </li>
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#education">Education</a> </li>
+                <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#certifications">Certifications</a> </li>
                 <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#skills">Skills</a> </li>
             </ul>
         </div>
@@ -101,14 +102,14 @@
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Administrative Data Auditor</h3>
+                        <h3 class="mb-0">Temp Administrative Data Auditor</h3>
                         <div class="subheading mb-3">Stonemor Partners</div>
                         <ul>
                             <li>Searched, scanned, and cross-referenced documents, files, and contracts located in a historical cemetery’s department of records to verify the authenticity and accuracy of information.</li>
                             <li>Added customer data to a spreadsheet as part of a database correction project. </li>
                         </ul>
                     </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">July 2017 - Present</span> </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">April 2017 to May 2017</span> </div>
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
@@ -156,7 +157,7 @@
                 </div>
             </div>
         </section>
-        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+        <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certifications">
             <div class="my-auto">
                 <h2 class="mb-5">Certifications</h2>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
@@ -165,7 +166,7 @@
                         <div class="subheading mb-3">HTML Level 1 Certification</div>
                         <p>This examination will test a basic knowledge of the structure of an HTML page, and the workings of essential elements such as header, paragraph and form tags.</p>
                     </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">March 2018 - Ongoing</span> </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">March 2018</span> </div>
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row">
                     <div class="resume-content mr-auto">
@@ -173,7 +174,7 @@
                         <div class="subheading mb-3">CSS Level 1 Certification</div>
                         <p>This examination will test a basic knowledge of CSS, how to include it in web pages and fundamental CSS processes such as positioning and text formatting.</p>
                     </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">October 2013 - December 2016</span> </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">March 2018</span> </div>
                 </div>
             </div>
         </section>
