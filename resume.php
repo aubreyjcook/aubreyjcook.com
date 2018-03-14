@@ -90,18 +90,6 @@
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Free-lance Web Developer</h3>
-                        <div class="subheading mb-3">Self-Employment</div>
-                        <ul>
-                            <li>Built websites according to contractual stipulations.</li>
-                            <li>Utilized web-based programming languages and libraries.</li>
-                            <li>Developed user interfaces and user experiences based on the needs of the website customers.</li>
-                        </ul>
-                    </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">July 2017 - Present</span> </div>
-                </div>
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                    <div class="resume-content mr-auto">
                         <h3 class="mb-0">Temp Administrative Data Auditor</h3>
                         <div class="subheading mb-3">Stonemor Partners</div>
                         <ul>
