@@ -36,7 +36,7 @@
                     <span class="text-primary">Cook</span>
                 </h1>
                 <div class="subheading mb-5"><a href="mailto:email@aubreyjcook.com">email@aubreyjcook.com</a> </div>
-                <p class="mb-5">Aubrey Cook is a free-lance Web Developer, specializing in front-end development.</p>
+                <p class="mb-5">Aubrey Cook is a student of Computer Science at University of Springfield Illinois, specializing in studying Web Development.</p>
                 <ul class="list-inline list-social-icons mb-0">
                     <li class="list-inline-item">
                         <a href="https://github.com/aubreyjcook">
