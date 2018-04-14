@@ -162,7 +162,7 @@
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="certifications">
             <div class="my-auto">
                 <h2 class="mb-5">Certifications</h2>
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-item d-flex flex-column flex-md-row">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Cambridge Certification Authority</h3>
                         <div class="subheading mb-3">HTML Level 1 Certification</div>
@@ -175,6 +175,14 @@
                         <h3 class="mb-0">Cambridge Certification Authority</h3>
                         <div class="subheading mb-3">CSS Level 1 Certification</div>
                         <p>This examination will test a basic knowledge of CSS, how to include it in web pages and fundamental CSS processes such as positioning and text formatting.</p>
+                    </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">March 2018</span> </div>
+                </div>
+                <div class="resume-item d-flex flex-column flex-md-row">
+                    <div class="resume-content mr-auto">
+                        <h3 class="mb-0">Cambridge Certification Authority</h3>
+                        <div class="subheading mb-3">Javascript Level 1 Certification</div>
+                        <p>This examination will test a basic knowledge of Javascript, the DOM, variables and arrays, and programming structures such as loops and if statements.</p>
                     </div>
                     <div class="resume-date text-md-right"> <span class="text-primary">March 2018</span> </div>
                 </div>
