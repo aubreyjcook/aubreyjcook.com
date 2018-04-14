@@ -9,14 +9,14 @@
 
 <body id="page-top">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top"> 
-            <span class="d-block d-lg-none">Start Bootstrap</span> 
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+            <span class="d-block d-lg-none">Start Bootstrap</span>
             <span class="d-none d-lg-block">
                 <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.png" alt="">
-            </span> 
+            </span>
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> 
-            <span class="navbar-toggler-icon"></span> 
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
@@ -35,7 +35,7 @@
                 <h1 class="mb-0">Aubrey
                     <span class="text-primary">Cook</span>
                 </h1>
-                <div class="subheading mb-5">(815) 321-9257 · <a href="mailto:email@aubreyjcook.com">email@aubreyjcook.com</a> </div>
+                <div class="subheading mb-5"><a href="mailto:email@aubreyjcook.com">email@aubreyjcook.com</a> </div>
                 <p class="mb-5">Aubrey Cook is a free-lance Web Developer, specializing in front-end development.</p>
                 <ul class="list-inline list-social-icons mb-0">
                     <li class="list-inline-item">
@@ -47,19 +47,19 @@
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="https://www.facebook.com/aubrey.cook.507"> 
+                        <a href="https://www.facebook.com/aubrey.cook.507">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                            </span> 
+                            </span>
                         </a>
                     </li>
                     <li class="list-inline-item">
-                        <a href="https://twitter.com/aubreyjcook"> 
+                        <a href="https://twitter.com/aubreyjcook">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-                            </span> 
+                            </span>
                         </a>
                     </li>
                     <li class="list-inline-item">
@@ -67,7 +67,7 @@
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-                            </span> 
+                            </span>
                         </a>
                     </li>
                 </ul>
@@ -78,6 +78,20 @@
                 <h2 class="mb-5">Experience</h2>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
+                        <h3 class="mb-0">Groundskeeper</h3>
+                        <div class="subheading mb-3">Bull Valley Golf Club</div>
+                        <!--
+                        <ul>
+                            <li>Coordinated with the head of Habitat For Humanity's local Restore chapter to help open a new store in Woodstock.</li>
+                            <li>Moved, sorted, and stocked donated products, appliances, and hardware throughout the store.</li>
+                            <li>Handled receiving, advertising signage, and visual organization of merchandise.</li>
+                        </ul>
+                        -->
+                    </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">April 2018 - Present</span> </div>
+                </div>
+                <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div class="resume-content mr-auto">
                         <h3 class="mb-0">Maintenance and Custodial Volunteer</h3>
                         <div class="subheading mb-3">Habitat For Humanity</div>
                         <ul>
@@ -86,7 +100,7 @@
                             <li>Handled receiving, advertising signage, and visual organization of merchandise.</li>
                         </ul>
                     </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">January 2018 - Present</span> </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">January 2018 - March 2018</span> </div>
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
@@ -199,7 +213,7 @@
             </div>
         </section>
     </div>
-<?php include 'php/footerJS.php';?> 
+<?php include 'php/footerJS.php';?>
 </body>
 
 </html>
