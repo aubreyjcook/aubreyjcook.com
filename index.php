@@ -120,7 +120,7 @@
                     <p>Web development is a field within software development, often related with web design. Web Developers are responsible for writing computer code and applications to make websites functional.</p>
                 </div>
                 <div class="col-lg-8 mx-auto text-center">
-                    <a href="documents/AubreyCookResume2017.docx" class="btn btn-lg btn-outline"> <i class="fa fa-download"></i> Download Resume </a>
+                    <a href="documents/AubreyCookResumeWeb.docx" class="btn btn-lg btn-outline"> <i class="fa fa-download"></i> Download Resume </a>
                 </div>
             </div>
         </div>
@@ -178,6 +178,7 @@
         <div class="container">
             <h2 class="text-center">Request Services</h2>
             <hr class="star-light">
+            <!--
             <div class="row">
                 <div class="col-lg-4 ml-auto text-center">
                     <h3>Website Audits</h3>
@@ -208,6 +209,7 @@
                 </div>
             </div>
             <div class="row">
+            -->
                 <div class="col-lg-8 mx-auto">
                     <div class="col-lg-8 mx-auto text-center">
                         <a href="https://form.jotform.com/73454085084156" class="btn btn-lg btn-outline"> <i class="fa fa-link"></i> Start Client Questionnaire Form </a>
@@ -285,7 +287,6 @@
             </div>
         </div>
     </div>
-    <!--
     <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -298,18 +299,15 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb03.jpg" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <h2>Conditional JavaScript Loading</h2>
+                            <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb02.jpg" alt="">
+                            <p>Using javascript to create conditional page loading based on url/webpage location. Review the project files on my <a href="https://github.com/aubreyjcook/Javascript-Conditional-Page-Loading">Github</a></p>
                             <ul class="list-inline item-details">
-                                <li>Client: <strong>
-                    <a href="http://startbootstrap.com">Start Bootstrap</a>
-                  </strong> </li>
-                                <li>Date: <strong>
-                    <a href="http://startbootstrap.com">April 2014</a>
+
+                                <li>Date: <strong>2018
                   </strong> </li>
                                 <li>Service: <strong>
-                    <a href="http://startbootstrap.com">Web Development</a>
+                    Web Development
                   </strong> </li>
                             </ul>
                             <button class="btn btn-success" type="button" data-dismiss="modal"> <i class="fa fa-times"></i> Close</button>
@@ -320,6 +318,7 @@
             </div>
         </div>
     </div>
+    <!--
     <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">

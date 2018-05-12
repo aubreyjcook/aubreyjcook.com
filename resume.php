@@ -78,20 +78,6 @@
                 <h2 class="mb-5">Experience</h2>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
-                        <h3 class="mb-0">Groundskeeper</h3>
-                        <div class="subheading mb-3">Bull Valley Golf Club</div>
-                        <!--
-                        <ul>
-                            <li>Coordinated with the head of Habitat For Humanity's local Restore chapter to help open a new store in Woodstock.</li>
-                            <li>Moved, sorted, and stocked donated products, appliances, and hardware throughout the store.</li>
-                            <li>Handled receiving, advertising signage, and visual organization of merchandise.</li>
-                        </ul>
-                        -->
-                    </div>
-                    <div class="resume-date text-md-right"> <span class="text-primary">April 2018 - Present</span> </div>
-                </div>
-                <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                    <div class="resume-content mr-auto">
                         <h3 class="mb-0">Maintenance and Custodial Volunteer</h3>
                         <div class="subheading mb-3">Habitat For Humanity</div>
                         <ul>
@@ -165,24 +151,24 @@
                 <div class="resume-item d-flex flex-column flex-md-row">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Cambridge Certification Authority</h3>
-                        <div class="subheading mb-3">HTML Level 1 Certification</div>
-                        <p>This examination will test a basic knowledge of the structure of an HTML page, and the workings of essential elements such as header, paragraph and form tags.</p>
+                        <div class="subheading mb-3"><a href="documents/CertificateHTMLLevel1.pdf">HTML Level 1 Certification<a></div>
+                        <p>Test basic knowledge of the structure of an HTML page, and the workings of essential elements such as header, paragraph and form tags.</p>
                     </div>
                     <div class="resume-date text-md-right"> <span class="text-primary">March 2018</span> </div>
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Cambridge Certification Authority</h3>
-                        <div class="subheading mb-3">CSS Level 1 Certification</div>
-                        <p>This examination will test a basic knowledge of CSS, how to include it in web pages and fundamental CSS processes such as positioning and text formatting.</p>
+                        <div class="subheading mb-3"><a href="documents/CertificateCSSLevel1.pdf">CSS Level 1 Certification<a></div>
+                        <p>Test basic knowledge of CSS, how to include it in web pages and fundamental CSS processes such as positioning and text formatting.</p>
                     </div>
                     <div class="resume-date text-md-right"> <span class="text-primary">March 2018</span> </div>
                 </div>
                 <div class="resume-item d-flex flex-column flex-md-row">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Cambridge Certification Authority</h3>
-                        <div class="subheading mb-3">Javascript Level 1 Certification</div>
-                        <p>This examination will test a basic knowledge of Javascript, the DOM, variables and arrays, and programming structures such as loops and if statements.</p>
+                        <div class="subheading mb-3"><a href="documents/CertificateJavascriptLevel1.pdf">Javascript Level 1 Certification</a></div>
+                        <p>Test basic knowledge of Javascript, the DOM, variables and arrays, and programming structures such as loops and if statements.</p>
                     </div>
                     <div class="resume-date text-md-right"> <span class="text-primary">March 2018</span> </div>
                 </div>
