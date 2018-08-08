@@ -120,7 +120,7 @@
                     <p>Web development is a field within software development, often related with web design. Web Developers are responsible for writing computer code and applications to make websites functional.</p>
                 </div>
                 <div class="col-lg-8 mx-auto text-center">
-                    <a href="documents/AubreyCookResumeWeb.docx" class="btn btn-lg btn-outline"> <i class="fa fa-download"></i> Download Resume </a>
+                    <a href="documents/AubreyCookStudentResume.docx" class="btn btn-lg btn-outline"> <i class="fa fa-download"></i> Download Resume </a>
                 </div>
             </div>
         </div>
