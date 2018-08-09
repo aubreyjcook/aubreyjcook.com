@@ -303,7 +303,7 @@
                             <div class="modal-body">
                               <h2>LampForge</h2>
                               <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb01.jpg" alt="">
-                              <p>LampForge is a basic website boilerplate intended for use on servers utilizing the LAMP stack. Review the project files on my <a target="_blank" href="https://github.com/aubreyjcook/lampforge">Github.</a> Or the live version at <a target="_blank" href="projects/lampforge">Projects</a></p>
+                              <p>LampForge is a basic website boilerplate intended for use on servers utilizing the LAMP stack. Review the project files on my <a target="_blank" href="https://github.com/aubreyjcook/lampforge">Github.</a> Or the live version at <a target="_blank" href="projects/frameworks/lampforge">Projects</a></p>
                               <ul class="list-inline item-details">
 
                                   <li>Date: <strong>2018
@@ -362,7 +362,7 @@
                         <div class="modal-body">
                             <h2>Landing Page</h2>
                             <hr class="star-light"> <img class="img-fluid img-centered" src="img/portfolio/portfolioThumb03.jpg" alt="">
-                            <p>Landing Page layout using LampForge Review the project files on my <a target="_blank" href="https://github.com/aubreyjcook/landingPage">Github</a> Or the live version at <a target="_blank" href="projects/landingPage">Projects</a></p>
+                            <p>Landing Page layout using LampForge Review the project files on my <a target="_blank" href="https://github.com/aubreyjcook/landingPage">Github</a> Or the live version at <a target="_blank" href="projects/layouts/landingPage">Projects</a></p>
                             <ul class="list-inline item-details">
 
                                 <li>Date: <strong>2018
