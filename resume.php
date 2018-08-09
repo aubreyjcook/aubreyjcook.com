@@ -10,7 +10,7 @@
 <body id="page-top">
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
-            <span class="d-block d-lg-none">Aubrey J Cook</span>
+            <span class="d-block d-lg-none">Aubrey Cook</span>
             <span class="d-none d-lg-block">
                 <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.png" alt="">
             </span>
@@ -76,6 +76,30 @@
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
             <div class="my-auto">
                 <h2 class="mb-5">Experience</h2>
+                <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div class="resume-content mr-auto">
+                        <h3 class="mb-0">Overnight Custodian</h3>
+                        <div class="subheading mb-3">ServiceMaster</div>
+                        <ul>
+                            <li>Removed trash and recycling waste from offices at a medical manufacturing facility.</li>
+                            <li>Sanitized counters, desks, floors, and other work areas.</li>
+                            <li>Ensured cleanliness of bathrooms, break rooms, and work spaces through the tracking of daily work documentation.</li>
+                        </ul>
+                    </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">July 2018 - August 2018</span> </div>
+                </div>
+                <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                    <div class="resume-content mr-auto">
+                        <h3 class="mb-0">Overnight Custodian</h3>
+                        <div class="subheading mb-3">RJB Properties</div>
+                        <ul>
+                            <li>Prepared floors by stripping and replacing old wax on tiled flooring.</li>
+                            <li>Swept and mopped floors at Mchenry County College.</li>
+                            <li>Removed trash and recycling waste.</li>
+                        </ul>
+                    </div>
+                    <div class="resume-date text-md-right"> <span class="text-primary">July 2018 - August 2018</span> </div>
+                </div>
                 <div class="resume-item d-flex flex-column flex-md-row mb-5">
                     <div class="resume-content mr-auto">
                         <h3 class="mb-0">Maintenance and Custodial Volunteer</h3>
